@@ -7,8 +7,8 @@
 ### Contact Me :
 
 <p align="center">
-<a href="https://twitter.com/mvojunior237" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/jayjunior#7680" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+<a href="https://twitter.com/mvojunior237" target="blank"><img align="left" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>&nbsp;
+<a href="http://discord.com/users/jayjunior#7680" target="blank"><img align="left" src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>&nbsp;
 </p>
 
 ---
