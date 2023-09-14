@@ -20,7 +20,7 @@
 * 💻 Currently Studying Computer Science at [Fau.de](https://www.fau.de)
 * <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/> Pythonista 🔥
 * Mostly also work with : <img src= "https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" height="20" width="20"/> <img src= "https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="20" width="20"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/46269057/152995219-a567ed1d-2e73-4496-9304-d173dec47a56.svg" width="20" heigh="20"> 
-* ⚽️ Love Soccer
+* ⚽️ Love Football
 * 🎧 Lofi Beats 💆🏽‍♂️
 
 
